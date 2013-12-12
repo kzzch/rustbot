@@ -1,0 +1,84 @@
+:moorcock.freenode.net NOTICE * :*** Looking up your hostname...
+:moorcock.freenode.net NOTICE * :*** Checking Ident
+:moorcock.freenode.net NOTICE * :*** Found your hostname
+:moorcock.freenode.net NOTICE * :*** No Ident response
+:moorcock.freenode.net 001 RubyTest :Welcome to the freenode Internet Relay Chat Network RubyTest
+:moorcock.freenode.net 002 RubyTest :Your host is moorcock.freenode.net[50.22.136.18/6667], running version ircd-seven-1.1.3
+:moorcock.freenode.net 003 RubyTest :This server was created Mon Dec 31 2012 at 15:37:06 CST
+:moorcock.freenode.net 004 RubyTest moorcock.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+:moorcock.freenode.net 005 RubyTest CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+:moorcock.freenode.net 005 RubyTest CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+:moorcock.freenode.net 005 RubyTest EXTBAN=$,arxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+:moorcock.freenode.net 251 RubyTest :There are 184 users and 72394 invisible on 28 servers
+:moorcock.freenode.net 252 RubyTest 36 :IRC Operators online
+:moorcock.freenode.net 254 RubyTest 46166 :channels formed
+:moorcock.freenode.net 255 RubyTest :I have 4614 clients and 1 servers
+:moorcock.freenode.net 265 RubyTest 4614 7446 :Current local users 4614, max 7446
+:moorcock.freenode.net 266 RubyTest 72578 92550 :Current global users 72578, max 92550
+:moorcock.freenode.net 250 RubyTest :Highest connection count: 7447 (7446 clients) (1075662 connections received)
+:moorcock.freenode.net 375 RubyTest :- moorcock.freenode.net Message of the Day - 
+:moorcock.freenode.net 372 RubyTest :- Welcome to moorcock.freenode.net in Texas, USA. Thanks to 
+:moorcock.freenode.net 372 RubyTest :- Kodingen (http://kodingen.com) for sponsoring this server!
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- MOORCOCK, MICHAEL (1939-). A British Sci-fi and Fantasy
+:moorcock.freenode.net 372 RubyTest :- author, Michael Moorcock began his writing career at the 
+:moorcock.freenode.net 372 RubyTest :- age of 16 and, via a number of pseudonyms, has become
+:moorcock.freenode.net 372 RubyTest :- a widely published and highly praised author.
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- Welcome to freenode - supporting the free and open source
+:moorcock.freenode.net 372 RubyTest :- software communities since 1998.
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- By connecting to freenode you indicate that you have read and
+:moorcock.freenode.net 372 RubyTest :- agree to adhere to our policies and procedures as per the
+:moorcock.freenode.net 372 RubyTest :- website (http://freenode.net/).
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- We would like to remind you that unauthorised public logging
+:moorcock.freenode.net 372 RubyTest :- of channels on the network is prohibited. Public channel
+:moorcock.freenode.net 372 RubyTest :- logging should only take place where the channel owner(s) has
+:moorcock.freenode.net 372 RubyTest :- requested this and users of the channel are all made aware
+:moorcock.freenode.net 372 RubyTest :- (if you are publically logging your channel, you may wish to 
+:moorcock.freenode.net 372 RubyTest :- keep a notice in the topic and perhaps as an on-join message).
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- freenode runs an open proxy scanner. For details on freenode 
+:moorcock.freenode.net 372 RubyTest :- network policy, please take a look at our policy page 
+:moorcock.freenode.net 372 RubyTest :- (http://freenode.net/policy.shtml).  Your use of the network
+:moorcock.freenode.net 372 RubyTest :- indicates your acceptance of this policy.
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- Please join #freenode for any network-related questions or
+:moorcock.freenode.net 372 RubyTest :- queries, there are numerous freenode volunteers and helpful
+:moorcock.freenode.net 372 RubyTest :- users who would be happy to try answer any questions you might
+:moorcock.freenode.net 372 RubyTest :- have.
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- Check out www.fossevents.org to find out what is happening in
+:moorcock.freenode.net 372 RubyTest :- your area, join us at FOSSCON (www.fosscon.org) for talks and
+:moorcock.freenode.net 372 RubyTest :- real-life collaboration or bring a picnic and come join
+:moorcock.freenode.net 372 RubyTest :- like-minded geeks for a geeknic (www.geeknic.org) somewhere
+:moorcock.freenode.net 372 RubyTest :- close to you. 
+:moorcock.freenode.net 372 RubyTest :- Lastly, massive thanks to the OSU Open Source Lab
+:moorcock.freenode.net 372 RubyTest :- (http://osuosl.org/) and Private Internet Access
+:moorcock.freenode.net 372 RubyTest :- (https://www.privateinternetaccess.com/) for their sustained,
+:moorcock.freenode.net 372 RubyTest :- long term support and dedication they show to the FOSS
+:moorcock.freenode.net 372 RubyTest :- communities.
+:moorcock.freenode.net 372 RubyTest :-  
+:moorcock.freenode.net 372 RubyTest :- ***************************************************************
+:moorcock.freenode.net 372 RubyTest :- Please read http://blog.freenode.net/2010/11/be-safe-out-there/
+:moorcock.freenode.net 372 RubyTest :- ***************************************************************
+:moorcock.freenode.net 376 RubyTest :End of /MOTD command.
+:RubyTest MODE RubyTest :+i
+:RubyTest!~RubyTest@ip.maine.res.rr.com JOIN #ruby-lang
+:moorcock.freenode.net 332 RubyTest #ruby-lang :Ruby 2.0.0-p247: http://ruby-lang.org (Ruby 1.9.3-p448) || Paste >3 lines of text on http://gist.github.com
+:moorcock.freenode.net 333 RubyTest #ruby-lang apeiros!~apeiros@77-58-115-64.dclient.hispeed.ch 1372509234
+:moorcock.freenode.net 353 RubyTest = #ruby-lang :RubyTest mdedetrich vilni Andrevan Plyturon rtlong specialblend dhruvasagar roadt tkuchiki eoinkelly banisterfiend charliesome hogeo mistym momomomomo rippa cmckni3 kurko_ tomplast heftig_ fosky bungoman tomzx_mac spuk yfeldblum snarfmason sstrickl LauraE dabradley Senjai_ postmodern hashkey shame leekiernan jaimef wallerdev achiu erik____ x0f poga jxie [[thufir]] io_syl bougyman rikai s0ber retro|cz kirin` snk charlescooke_ rsl phracker kalleth
+:moorcock.freenode.net 353 RubyTest = #ruby-lang :Kabaka_ linc01n LanceHaig ohsix grandy DarkBushido duckinator amerine cHarNe2 apx tsou MartynKeigher adwhit _Bravado schroedinbug wrseward Boohbah MouseTheLuckyDog wudofyr cstrahan vbatts Silex ndrst Voker57 joonty nofxx buranshe fbernier nignaztic riotbit kstuart coffeejunk lele lele|w mbr danrabinowitz scottschecter TheMoonMaster ozzloy Nilium zenspider gix speakingcode-wor gnufied chris2 Olipro ljarvis face FastJack DEac- EvilJStoker Asher
+:moorcock.freenode.net 353 RubyTest = #ruby-lang :erichmenge cschneid rebelcan waxjar intellitech tarruda FlyingLeap nirix KM ericwood thang musl rickhull Xzyx987X_ joevandyk mclee2 whitequark mitchty_ ammar skinny_much_ rue|w joast dominikh KillerFox gianlucadv GarethAdams epitron neurodamage dRbiG crankharder tommylommykins supyo jwollert mihar jroesch jarib maloik kennyvb_ jwollert| wnd_ hagabaka meise perry kith Guest66769 Paradox hackeron mahlon_ jperry rmyers pabs GaelanAintAround zz_dlu
+:moorcock.freenode.net 353 RubyTest = #ruby-lang :Rubennn _dumfries vadviktor_ Kuukunen fallenhitokiri rhizome ironcamel crazysim andrewvos Bwild onewheelskyward sluukkonen matled tylergillies_ weeb1e akahn PaulePanter jstemmer PacketMonkey Guu _rgn freedrull supki ccitizen melter Phoop llakey _whitelogger znz_jp bryanl Kero chuck ruskie kevinfagan blowmage deggis _ko1 Joni_79 lupine cub1c_ ihme-TTilus zzak vivekrai chickenflu Guest85414__ franckverrot UziMonkey norplr_ knu pipecloud kitallis-cloud
+:moorcock.freenode.net 353 RubyTest = #ruby-lang :beawesomeinstead jacknagel segy go|dfish conceal_rs_____0 anekos samuelkadolph closer009 ItSANgo brixen priodev imajes canton7 sonne khaase_ jinie darix tommyblue jmeeuwen nikky tpope flori_ lguardiola zeusmns Y_Ichiro shtirlic sindork falten DefV soraher naquad eban Harzilein mame0 tdy rondale_sc felipe jtoy erikh badeball Rylai chendo joschi davidbalber|away soahccc threedaymonk djinni` ryanf dbussink dvorak cyndis randym_ fumduq sn0wb1rd Cope kvs
+:moorcock.freenode.net 353 RubyTest = #ruby-lang :justinmcp oddmunds JoL1hAHN Muz [dmp] jsaak a3li dumfries ged yellow5 Reen tris lianj brownies doki_pen ahf cout shaman42 hachiya ddfreyne Mellett68 babinho bri wang jayne yeltzooo Karql FiXato yorickpeterse eam rtl t0h corundum drbrain manveru amateurhuman_ igalic drakkhen_ wasnotrice egypt Caius eval-in
+:moorcock.freenode.net 366 RubyTest #ruby-lang :End of /NAMES list.
+:ChanServ!ChanServ@services. NOTICE RubyTest :[#ruby-lang] The Official Ruby Channel http://ruby-lang.org &#8212; Paste > 3 lines of text on https://gist.github.com or similar
+:services. 328 RubyTest #ruby-lang :http://www.ruby-lang.org
+PING :moorcock.freenode.net
+:UziMonkey!uid184@gateway/web/irccloud.com/x-ntdrtfjzcqwpfmvo PRIVMSG #ruby-lang :named regexp groups are awesome...  why didn't I find this feature earlier?
+:RubyTest!~RubyTest@ip.maine.res.rr.com QUIT :Client Quit
+ERROR :Closing Link: ip.maine.res.rr.com (Client Quit)
